@@ -7,4 +7,4 @@
 - **Electronics Tools:** Proteus 8, Arduino, KiCAD
 - **Hobbies:** Drawing, learning guitar and Japanese, and working on personal tech-related projects
 - **Certifications:** None as of now
-- **Philosophy:** "Experience is the best teacher."
+- **Philosophy:** "It's not the mountain we conquer, but ourselves."
