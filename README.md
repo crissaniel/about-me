@@ -1,10 +1,7 @@
 # About Me
 
 - **Computer Engineering Student**
-- **Top Skills:** Electronics, Arduino, C, and Python Programming
+- **Top Skills:** Electronics, Programming, Problem-Solving, Analytical Thinking, Engineering Planning
 - **Current Project:** 
-- **Programming Languages:** C, C++, Python, HTML, & CSS
-- **Electronics Tools:** Proteus 8, Arduino, KiCAD
-- **Hobbies:** Drawing, learning guitar and Japanese, and working on personal tech-related projects
-- **Certifications:** None as of now
+- **Programming Languages:** C, C++, Python, HTML, CSS, & JavaScript
 - **Philosophy:** "It's not the mountain we conquer, but ourselves."
